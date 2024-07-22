@@ -1,0 +1,8 @@
+# Coding style files
+*.log
+*.out
+
+#binary files
+my_paint
+*.a
+*.jpg
