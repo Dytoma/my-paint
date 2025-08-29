@@ -1,6 +1,6 @@
 ##
 ## EPITECH PROJECT, 2023
-## B-MUL-100-TLS-1-1-myradar-dytoma.batogouma
+## B-MUL-100-TLS-1-1-mypaint-dytoma.batogouma
 ## File description:
 ## Makefile
 ##
